@@ -1,0 +1,4 @@
+*.elc
+*-autoloads.el
+*-pkg.el
+.DS_Store
